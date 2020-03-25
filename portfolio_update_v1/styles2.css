@@ -100,7 +100,7 @@ header .profile-image:hover {
   transition: all .5s;
 }
 .card:hover {
-  border-color: blue;
+  border-color: green;
 }
 
 ul.skills {

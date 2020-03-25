@@ -71,11 +71,11 @@ header .profile-image {
   width: 150px;
   height: 150px;
   border-radius: 50%;
-  border: 3px solid white;
-  transition: all .5s;
+  border: 5px solid lightblue;
+  transition: all .8s;
 }
 header .profile-image:hover {
-  transform: scale(1.2) rotate(15deg);
+  transform: scale(1.4) rotate(18deg);
 }
 .tag {
   background-color: #9290A1;
@@ -99,6 +99,7 @@ header .profile-image:hover {
   border-radius: 6px;
   transition: all .5s;
 }
+
 .card:hover {
   border-color: blue;
 }
