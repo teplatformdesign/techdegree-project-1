@@ -30,6 +30,7 @@ a:hover {
   padding: 10px;
   position: fixed;
   text-align: center;
+  opacity: 0.6;
 
 }
 .nav {
@@ -45,6 +46,7 @@ a:hover {
     display: block;
     margin-right: auto;
     color: white;
+
 }
 .nav li {
   padding: 5px 10px 10px 10px;
@@ -78,16 +80,19 @@ header .profile-image:hover {
   transform: scale(1.4) rotate(18deg);
 }
 .tag {
-  background-color: #9290A1;
+  background-color: rgba(0, 0, 0, 0.5);
   color: white;
   padding: 10px;
   border-radius: 5px;
   display: table;
   margin: 10px auto;
+
 }
+
 .location {
-  background-color: #9290A1;
+  background-color: rgba(0, 0, 0, 0.5);
   color: white;
+
 }
 .card {
   margin: 30px;
@@ -217,5 +222,11 @@ a.social:hover {
        height: auto;
        width: auto\9; /* ie8 */
   }
+h2 {
+text-align: center;
+}
 
+p {
+  text-align: center;
+}
 }
