@@ -1,5 +1,5 @@
-# what I build
+# What I built
 Personal Profile Page
 
-# what I learned
+# What I learned
 Basic HTML and CSS
